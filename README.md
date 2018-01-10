@@ -8,6 +8,8 @@
 添加react-native-ifimage的关联（当然你也可以手动添加，如果你不嫌麻烦的话）
 
 3.在js文件中引入import IFImage from 'react-native-ifimage';
+
+
 4.如果需要加载gif图的话，需要在你项目的Android目录下的app下的build.gradle添加     
 compile 'com.facebook.fresco:animated-gif:1.3.0'
 
